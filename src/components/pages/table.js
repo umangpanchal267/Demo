@@ -15,8 +15,8 @@ const Table = () => {
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
+          <td>Umang</td>
+          <td>Umang@gmail.com</td>
           <td>
             <button type="button" className="btn btn-info me-md-2">
               View
@@ -31,8 +31,8 @@ const Table = () => {
         </tr>
         <tr>
           <th scope="row">2</th>
-          <td>Jacob</td>
-          <td>Thornton</td>
+          <td>Harsh</td>
+          <td>Harsh@gmail.com</td>
           <td>
             <button type="button" className="btn btn-info me-md-2">
               View
@@ -47,8 +47,8 @@ const Table = () => {
         </tr>
         <tr>
           <th scope="row">3</th>
-          <td>Larry the Bird</td>
-          <td>thor@gmail.com</td>
+          <td>Krutik </td>
+          <td>Krutik@gmail.com</td>
           <td>
             <button type="button" className="btn btn-info me-md-2">
               View
